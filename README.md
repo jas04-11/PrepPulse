@@ -67,11 +67,11 @@ Most interview preparation platforms are:
 
 ---
 ### Sample Images
-**Landing Page** <img width="1881" height="907" alt="image" src="https://github.com/user-attachments/assets/5231733a-e2a9-4666-9d0e-f7c8558e7288" />
-**Login** <img width="662" height="540" alt="image" src="https://github.com/user-attachments/assets/16061a5f-8fd9-44a6-935f-648d7d1443ee" />
-**Signup** <img width="642" height="807" alt="image" src="https://github.com/user-attachments/assets/92a39f10-99ff-46a9-9ebd-17f70eb23c56" />
-**Dashboard** <img width="1881" height="902" alt="image" src="https://github.com/user-attachments/assets/73c02e28-b293-4df4-bfd1-bc3f4555136d" />
-**Specific Session** <img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/82b240a6-979b-4137-af58-9b49adc57469" />
+<img width="1881" height="907" alt="image" src="https://github.com/user-attachments/assets/5231733a-e2a9-4666-9d0e-f7c8558e7288" /> 
+<img width="662" height="540" alt="image" src="https://github.com/user-attachments/assets/16061a5f-8fd9-44a6-935f-648d7d1443ee" />
+<img width="642" height="807" alt="image" src="https://github.com/user-attachments/assets/92a39f10-99ff-46a9-9ebd-17f70eb23c56" />
+<img width="1881" height="902" alt="image" src="https://github.com/user-attachments/assets/73c02e28-b293-4df4-bfd1-bc3f4555136d" />
+<img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/82b240a6-979b-4137-af58-9b49adc57469" />
 
 ## 🤖 How AI Works in PrepPulse
 
@@ -117,7 +117,8 @@ Most interview preparation platforms are:
 
 **Jasleen Kaur**  
 MCA Student  
-MERN Stack Developer | AI Enthusiast  
+MERN Stack Developer | AI Enthusiast 
+Chandigarh University
 
 ---
 
